@@ -19,6 +19,8 @@ This project was built for helping users to better organize their thoughts and k
 
 No installation required. Just visit the link provided below.
 
+https://note-taking-app-2-297bd96f16aa.herokuapp.com/
+
 ## Usage
 
 Once you are on the webpage, just hit "Get started", and enter your first note.
