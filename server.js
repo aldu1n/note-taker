@@ -45,6 +45,6 @@ app.post('/api/notes', (req, res) => {
   });
 // Create localhost port for app access.  
 
-// app.listen(PORT, () => {
-//   console.log(`Example app listening at http://localhost:${PORT}`);
-// });
+app.listen(process.env.PORT || PORT, () => {
+  console.log(`Example app listening at http://localhost:${PORT}`);
+});
